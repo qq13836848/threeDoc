@@ -1,0 +1,21 @@
+{
+  "name": "threejsdoc",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "threejs"
+  ],
+  "author": "jacky",
+  "license": "ISC",
+  "dependencies": {
+    "store": "^2.0.12",
+    "three": "^0.156.1"
+  },
+  "devDependencies": {
+    "vite": "^4.4.9"
+  }
+}
